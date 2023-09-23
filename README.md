@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="spring-boot-chatgpt" title="spring-boot-chatgpt" src=".github/logo.png" />
+  <img alt="spring-boot-chatgpt" title="spring-boot-chatgpt" src="[.github/logo.png](https://www.cienciaedados.com/wp-content/uploads/2023/04/Por-Que-o-ChatGPT-Nao-e-Tao-Inteligente-Quanto-Muitos-Acreditam.jpg)" />
 </h1>
 
 <p align="center">
