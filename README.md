@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://repository-images.githubusercontent.com/236539303/3e436a05-4ee3-4d4b-9c11-fa4d1ca1c42f](https://www.cienciaedados.com/wp-content/uploads/2023/04/Por-Que-o-ChatGPT-Nao-e-Tao-Inteligente-Quanto-Muitos-Acreditam.jpg" width="80%">
+ <img src="https://techbullion.com/wp-content/uploads/2023/07/OpenAI_-_new_green.jpg" width="50%">
 </h1>
 
 <p align="center">
